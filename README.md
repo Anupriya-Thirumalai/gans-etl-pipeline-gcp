@@ -126,4 +126,4 @@ python etl_pipeline.py
 
 Anupriya Thirumalai
 PhD in Neuroscience, University of Göttingen
-[LinkedIn](https://www.linkedin.com/in/anupriyathirumalai/) | [GitHub](https://github.com/Anupriya-Thirumalai) | [Medium](https://medium.com/@anupriya.thirumalai)
+[LinkedIn](https://www.linkedin.com/in/anupriyathirumalai/) | [ORCID](https://orcid.org/0000-0002-3624-0343) | [Medium](https://medium.com/@anupriya.thirumalai)
